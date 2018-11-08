@@ -1,8 +1,8 @@
-Disclaimer and Privacy Ordinance
+## Disclaimer and Privacy Ordinance
 
 
 
-Privacy and security
+## Privacy and security
 
 
 
