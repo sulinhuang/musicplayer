@@ -6,15 +6,15 @@ Privacy and security
 
 
 
-KMusicPlayer will not upload any data to any server.
+• KMusicPlayer will not upload any data to any server.
 
 
 
-KMusicPlayer will not divulge any data to your third party.
+• KMusicPlayer will not divulge any data to your third party.
 
 
 
-* KMusicPlayer's synchronous data is stored in iCloud rather than on other servers, and no one except you has access to it.
+• KMusicPlayer's synchronous data is stored in iCloud rather than on other servers, and no one except you has access to it.
 
 
 
