@@ -11,4 +11,4 @@
 
 Users shall not use Oriole for illegal purposes.
 
-K Music Player itself does not get the user's contact information and does not send it to servers other than iCloud.privacypolicy
+Oriole itself does not get the user's contact information and does not send it to servers other than iCloud.privacypolicy
